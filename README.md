@@ -1,0 +1,1 @@
+This is the simple home page  layout for startup-company
